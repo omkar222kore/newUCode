@@ -1,0 +1,48 @@
+2024-08-24 11:34:00,769 - INFO - Placing orders for 24-08-2024 11:15 AM
+2024-08-24 11:34:00,778 - INFO - No stocks found for the given time. Clearing previous stock lists.
+2024-08-24 11:34:00,778 - INFO - place_orders function completed.
+2024-08-24 11:35:00,801 - INFO - Checking positions and placing orders.
+2024-08-24 11:35:01,738 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:35:01,739 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:35:11,739 - INFO - Checking positions and placing orders.
+2024-08-24 11:35:12,371 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:35:12,372 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:35:22,373 - INFO - Checking positions and placing orders.
+2024-08-24 11:35:23,058 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:35:23,058 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:35:33,059 - INFO - Checking positions and placing orders.
+2024-08-24 11:35:33,721 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:35:33,721 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:35:43,722 - INFO - Checking positions and placing orders.
+2024-08-24 11:35:44,332 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:35:44,332 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:35:54,333 - INFO - Checking positions and placing orders.
+2024-08-24 11:35:55,056 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:35:55,057 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:36:05,057 - INFO - Checking positions and placing orders.
+2024-08-24 11:36:05,770 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:36:05,770 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:36:15,771 - INFO - Checking positions and placing orders.
+2024-08-24 11:36:16,375 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:36:16,375 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:36:26,376 - INFO - Checking positions and placing orders.
+2024-08-24 11:36:27,236 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:36:27,236 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:36:37,238 - INFO - Checking positions and placing orders.
+2024-08-24 11:36:37,970 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:36:37,970 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:36:47,971 - INFO - Checking positions and placing orders.
+2024-08-24 11:36:48,534 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:36:48,535 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:36:58,536 - INFO - Checking positions and placing orders.
+2024-08-24 11:36:59,257 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:36:59,257 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:37:09,258 - INFO - Checking positions and placing orders.
+2024-08-24 11:37:10,010 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:37:10,011 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:37:20,011 - INFO - Checking positions and placing orders.
+2024-08-24 11:37:20,625 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:37:20,625 - INFO - check_positions_and_place_orders function completed.
+2024-08-24 11:37:30,626 - INFO - Checking positions and placing orders.
+2024-08-24 11:37:31,383 - ERROR - No positions data found or the data is not in the expected format.
+2024-08-24 11:37:31,383 - INFO - check_positions_and_place_orders function completed.
